@@ -7,7 +7,7 @@
 
 
 <h3 style="text-align:center;">
-Merhaba! Ben bir yazılım geliştirici ve çok yönlü bir programcıyım. Profesyonel olarak kullandığım diller arasında JavaScript, Node.js, Discord.js ve Kotlin bulunuyor.
+Merhaba! Ben bir yazılım geliştirici ve çok yönlü bir programcıyım. Mid level olarak kullandığım diller arasında JavaScript, Node.js, Discord.js ve Kotlin bulunuyor.
 
 GitHub profilimde, zekice tasarımlı ve işlevsel uygulamaların yanı sıra kod paylaşımlarıma da ulaşabilirsiniz. Her projede kaliteli kod yazma ve verimli çözümler sunma ilkem doğrultusunda hareket ediyorum.
 

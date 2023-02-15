@@ -1,19 +1,18 @@
 
 
 <p align=center>
-<img src="https://github.com/cranedevs/cranedevs/blob/main/cranethub.png" alt="">
+<img style="border-radius:50px;" src="https://github.com/cranedevs/cranedevs/blob/main/cranethub.png" alt="">
 </p>
-<h1 align="center">Hi Everyone!</h1>
 
+<a href="https://github.com/Jurredr/github-widgetbox">
+  <p align=center>
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=cranedevs&data=followers,repositories,stars,commits&theme=darkmode" alt="">
+  </p>
+</a>
 
-<h3 style="text-align:center;">
-Merhaba! Ben bir yazılım geliştirici ve çok yönlü bir programcıyım. Mid level olarak kullandığım diller arasında JavaScript, Node.js, Discord.js ve Kotlin bulunuyor.
-
-GitHub profilimde, zekice tasarımlı ve işlevsel uygulamaların yanı sıra kod paylaşımlarıma da ulaşabilirsiniz. Her projede kaliteli kod yazma ve verimli çözümler sunma ilkem doğrultusunda hareket ediyorum.
-
-Discord.js ile geliştirdiğim interaktif botlar, kullanıcı deneyimini artırmayı amaçlıyor. Kotlin ile geliştirdiğim mobil uygulamalar ise kullanım kolaylığı ve performansı bir arada sunuyor.
-
-Her zaman en iyisini sunmak ve geliştirmek için çalışıyorum. Eğer bir projede çalışma fırsatı bulursam, o projenin başarısına ortak olmaktan mutluluk duyarım.
-</h3>
-
+<a href="https://github.com/Jurredr/github-widgetbox">
+  <p align=center>
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,kotlin,html,css,nodejs,express,discordjs&theme=darkmode" alt="">
+  </p>
+</a>
 

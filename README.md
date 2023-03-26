@@ -16,3 +16,9 @@
   </p>
 </a>
 
+<h3 align="center">Kendi geliştirdiğim profile viewerı denemeyi ihmal etme! Halen geliştirme aşamasında :)</h3>
+<a href="">
+  <p align=center>
+    <img src="https://discord-profile-prev-amznj.run-eu-central1.goorm.site/587564522009788426" />
+  </p>
+</a>

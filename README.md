@@ -19,6 +19,6 @@
 <h3 align="center">Kendi geliştirdiğim profile viewerı denemeyi ihmal etme! Halen geliştirme aşamasında :)</h3>
 <a href="">
   <p align=center>
-    <img src="https://discord-profile-preview.teatoneice.repl.co/587564522009788426" />
+    <img width="650" src="https://discord-profile-preview.teatoneice.repl.co/587564522009788426" />
   </p>
 </a>
